@@ -1,0 +1,3 @@
+include ':utilcollection'
+include ':app'
+rootProject.name = "UtilCollection"
